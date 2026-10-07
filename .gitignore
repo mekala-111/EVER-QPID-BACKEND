@@ -1,0 +1,16 @@
+# Node.js dependency directory
+node_modules/
+data/
+dist/
+download/
+.env
+firebase-service-account-key.json
+/src/firebase-service-account.json
+
+# Local tooling / generated output
+.idea/
+.cursor/
+graphify-out/
+.DS_Store
+.env.*
+*.pem
